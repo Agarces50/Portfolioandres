@@ -1,0 +1,12 @@
+/* //siempre que hagamos a parte el style ponemos form// */
+
+form{
+    
+    background-color: rgb(14, 73, 131);
+    margin:80px;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing:border-box
+
+}

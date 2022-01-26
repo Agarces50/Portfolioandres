@@ -1,0 +1,51 @@
+
+h1 {
+  color: orange;
+  font-family: verdana;
+  font-size: 300%;
+}
+
+h2 {
+    
+    color: orange;
+  font-family: verdana;
+  
+
+}
+.marco-nombre {
+    border: 3px solid orange;
+    background-color: palevioletred;
+    width: 1440px;
+    height: 150px;
+}
+
+.fuente-personalizada {
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+h3{
+    color: orange;
+    font-family: verdana;
+    font-size: 35%;
+
+
+
+}
+
+
+p {
+  color: red;
+  font-family: courier;
+  font-size: 160%;
+}
+
+.pie-de-pagina{
+background-color: red;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 125;
+
+}
+
+
